@@ -1,5 +1,6 @@
 List of Modules:
 *Added base modules
 *New feature 1 added
+*New feature 2 added
 *New feature 3 added
 *New feature 4 added
