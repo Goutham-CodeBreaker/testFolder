@@ -7,3 +7,4 @@ List of Modules:
 *New feature 5 added
 *Updated New feature 6 added
 *New Updated New feature 7 added
+*New feature 8 added
