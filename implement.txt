@@ -4,5 +4,5 @@
 *Feature 3 Implemented
 *Feature 4 Implemented
 *Feature 5 Implemented
-*Feature 6 Implemented
+*Feature 6 Implemented updated
 *Feature 7 Implemented
